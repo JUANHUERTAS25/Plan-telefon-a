@@ -11,4 +11,4 @@ El plan telefonía necesita de los siguientes datos:
 Por otro lado, para calcular el precio se creará una variable de tipo estatica donde el precio del minuto sera de 200 pesos, entonces, para calcular el precio se multiplica la cantidad de minutos * precio minuto. 
 
 ## Diagrama de Clase
-![Diagrama de Clases](class-diagram.png "Diagrama de Clases")
+![Diagrama de Clases](diagrama.png "Diagrama de Clases")
